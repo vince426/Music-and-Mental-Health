@@ -1,0 +1,737 @@
+Age,Primary streaming service,Hours per day,Fav genre,Anxiety,Depression,Insomnia,OCD
+18,Spotify,3,Latin,3,0,1,0
+63,Pandora,1.5,Rock,7,2,2,1
+18,Spotify,4,Video game music,7,7,10,2
+61,YouTube Music,2.5,Jazz,9,7,3,3
+18,Spotify,4,R&B,7,2,5,9
+18,Spotify,5,Jazz,8,8,7,7
+18,YouTube Music,3,Video game music,4,8,6,0
+21,Spotify,1,K pop,5,3,5,3
+19,Spotify,6,Rock,2,0,0,0
+18,I do not use a streaming service.,1,R&B,2,2,5,1
+18,Spotify,3,Country,7,7,4,7
+19,YouTube Music,8,EDM,1,0,0,1
+,Spotify,3,Hip hop,9,3,2,7
+19,Spotify,2,Country,2,1,2,0
+18,Spotify,4,Jazz,6,4,7,0
+17,Spotify,2,Pop,7,5,4,1
+16,Spotify,8,Hip hop,8,8,4,3
+16,Spotify,12,Hip hop,5,7,10,0
+17,Spotify,24,Rap,7,5,0,3
+15,Spotify,3,Hip hop,7,3,0,2
+15,Apple Music,8,Hip hop,6,9,3,0
+17,Spotify,4,Rap,10,10,2,4
+19,I do not use a streaming service.,5,R&B,6,7,5,4
+18,Spotify,2,Pop,3,3,8,6
+16,Other streaming service,3,Rock,10,6,8,10
+18,Spotify,2,Pop,7,4,2,5
+14,Spotify,12,Rock,8,6,10,5
+18,YouTube Music,6,Pop,3,2,1,2
+17,Spotify,2,Pop,6,6,4,5
+17,Apple Music,1,Pop,8,2,1,5
+20,Apple Music,5,Rock,7,7,2,0
+19,Spotify,2,Classical,4,4,4,3
+19,Spotify,6,Metal,9,8,2,3
+17,Spotify,4,Rock,5,6,6,1
+16,Spotify,1,Classical,0,0,0,0
+18,Spotify,5,Pop,3,2,1,1
+21,Spotify,4,Pop,6,8,0,2
+17,Other streaming service,3,Pop,2,0,4,0
+26,Other streaming service,0.5,Rock,9,8,1,0
+20,Spotify,4,EDM,7,2,8,6
+23,YouTube Music,2,Video game music,4,2,3,4
+18,Spotify,5,Rock,7,6,5,0
+37,YouTube Music,0.25,Video game music,3,2,10,0
+17,Spotify,3,Classical,6,6,8,2
+18,Spotify,4,Metal,1,0,8,2
+17,I do not use a streaming service.,1,Folk,7,3,1,5
+36,Spotify,1,Classical,8,9,3,0
+24,Spotify,3,Rock,9,6,4,3
+18,Spotify,5,Metal,7,9,5,0
+19,Spotify,3,Pop,7,4,2,4
+17,Apple Music,2,EDM,0,0,0,0
+16,Spotify,6,K pop,7,8,7,5
+23,Apple Music,1,Rap,10,6,3,10
+23,Spotify,12,Pop,3,7,5,5
+22,Spotify,4,Rock,8,7,4,3
+16,Apple Music,2,Classical,0,0,1,3
+18,Spotify,6,Rock,8,6,2,10
+42,I do not use a streaming service.,0,Rock,9,0,10,0
+23,Spotify,7,Folk,6,4,2,3
+23,I do not use a streaming service.,1,Video game music,7,0,0,2
+19,YouTube Music,1,K pop,10,1,0,0
+22,Pandora,1,Rock,8,7,0,5
+15,Other streaming service,2,Rock,3,2,6,7
+25,Spotify,2,Metal,5,5,3,1
+32,Spotify,5,Rock,10,10,3,1
+36,Spotify,6,Metal,5,4,10,2
+24,Spotify,3,Rock,0,0,8,0
+29,Spotify,4,Hip hop,8,8,5,10
+41,Apple Music,3,Metal,10,7,8,0
+36,I do not use a streaming service.,2,Rock,7,3,1,1
+19,YouTube Music,3,Rock,8,7,4,0
+31,Spotify,2,Rock,10,2,0,5
+16,Spotify,4,Rock,9,8,1,2
+26,Spotify,2,Hip hop,6,3,1,1
+22,Apple Music,0.5,Hip hop,7,7,0,1
+16,Spotify,5,Jazz,7,7,8,4
+17,Spotify,5,Metal,4,1,0,0
+19,Spotify,10,R&B,7,2,1,5
+18,YouTube Music,2,EDM,9,0,5,10
+18,YouTube Music,4,Hip hop,2,7,1,1
+19,Spotify,5,Rock,10,8,7,0
+19,Spotify,3,Jazz,3,0,0,0
+22,Spotify,2,K pop,7,8,5,1
+16,Spotify,2.5,Rock,2,1,0,0
+19,Spotify,3,R&B,5,4,0,1
+37,Spotify,1,Rock,9,10,6,10
+14,Spotify,7,Jazz,2,0,0,0
+33,I do not use a streaming service.,1,Metal,5,2,5,1
+26,Spotify,1,R&B,3,2,0,0
+32,Spotify,3,Hip hop,2,0,7,0
+30,Spotify,5,Metal,7,6,6,2
+43,I do not use a streaming service.,6,Video game music,5,4,8,3
+24,Spotify,4,Classical,4,6,5,3
+36,YouTube Music,1,Rock,6,2,3,1
+19,YouTube Music,4,Video game music,8,2,1,6
+22,Spotify,10,Metal,9,6,0,6
+20,Spotify,3,EDM,0,3,7,0
+31,Spotify,2,Rock,8,9,6,2
+19,Spotify,4,Metal,4,1,1,1
+15,Spotify,8,Rock,8,7,5,0
+18,Spotify,2,Metal,3,4,6,1
+25,I do not use a streaming service.,0.5,Classical,1,1,3,1
+17,Apple Music,5,Metal,10,8,6,7
+28,YouTube Music,1,Rock,6,6,2,0
+20,Spotify,3,Rock,6,7,0,0
+21,YouTube Music,2,Metal,8,4,10,0
+41,Spotify,3,Pop,9,7,6,2
+20,Spotify,2,Pop,7,4,6,5
+34,Other streaming service,4,Metal,6,7,0,0
+21,YouTube Music,3,Metal,10,0,10,10
+23,Spotify,2,Metal,6,3,0,1
+16,Spotify,3,Pop,7,5,5,3
+19,YouTube Music,4,Pop,7,10,5,0
+22,Spotify,2,Rock,8,6,0,0
+19,Spotify,8,K pop,4,3,0,0
+23,Spotify,4,Hip hop,7,6,7,5
+23,Spotify,2,Metal,7,3,2,3
+22,Spotify,1,EDM,2,7,5,0
+17,Spotify,3,Rock,7,8,6,5
+28,Spotify,0.5,Folk,4,7,1,0
+23,Spotify,2,Rock,7,8,5,1
+19,Apple Music,3,Rock,5,2,8,6
+17,Spotify,2,Hip hop,10,7,4,2
+21,YouTube Music,1,Rock,6,5,0,0
+29,Other streaming service,5,Jazz,7,2,3,1
+22,Spotify,10,EDM,4,7,7,3
+18,Spotify,4,Pop,4,5,6,5
+13,Spotify,2,Rock,7,10,5,6
+24,Spotify,1,Metal,6,4,5,0
+35,Spotify,6,Rock,4,1,3,1
+29,YouTube Music,1,Video game music,6,6,1,2
+28,Spotify,6,Rock,10,8,7,1
+32,Spotify,7,Pop,10,8,2,8
+32,Other streaming service,1,EDM,3,6,2,0
+21,Spotify,3,Rock,8,9,2,0
+18,Spotify,2,Video game music,8,3,8,7
+19,Spotify,3,Classical,3,3,1,2
+18,Apple Music,2,Pop,6,5,2,0
+16,YouTube Music,3,Pop,0,0,4,0
+25,Spotify,1.5,Pop,6,5,0,2
+17,Spotify,4,Lofi,3,8,0,0
+16,Spotify,2,Rap,1,8,0,0
+27,Spotify,10,Metal,5,6,6,3
+53,Spotify,7,Pop,0,0,0,0
+25,Spotify,1,EDM,0,8,0,0
+34,Spotify,2,Metal,3,7,0,0
+22,Other streaming service,6,Jazz,8,8,8,5
+17,Spotify,2,Jazz,5,2,3,4
+26,Spotify,3,Folk,8,8,3,0
+19,Spotify,8,EDM,6,8,8,0
+21,Spotify,3,Pop,6,8,6,0
+32,Spotify,3,Rock,6,6,7,5
+21,I do not use a streaming service.,3,Rock,9,10,3,0
+25,Spotify,2,Pop,7,7,5,0
+26,Spotify,1,Rock,10,7,2,8
+21,Spotify,2,Metal,1,3,0,6
+17,Spotify,2,Pop,5,3,2,1
+28,I do not use a streaming service.,4,Rock,6,8,1,6
+41,YouTube Music,4,Pop,7,2,0,7
+18,Spotify,1,Metal,6,9,9,0
+22,Spotify,2,R&B,1,1,4,1
+18,Other streaming service,2,K pop,0,2,0,0
+49,Other streaming service,1,EDM,8,8,2,0
+21,Spotify,3,Metal,3,3,7,0
+27,Spotify,10,Metal,8,8,3,0
+19,Spotify,1,Metal,6,4,0,3
+27,Spotify,3,Metal,1,0,0,0
+27,Spotify,1.5,Rock,5,5,4,4
+19,Spotify,3,K pop,8,9,6,0
+42,YouTube Music,2.5,Rock,8,8,7,6
+60,Pandora,2,Gospel,3,0,2,0
+19,YouTube Music,5,Metal,0,5,1,0
+20,Apple Music,2,Pop,6,3,0,0
+28,Spotify,2,Metal,1,7,5,1
+16,I do not use a streaming service.,2,Video game music,4,2,1,1
+18,Spotify,2,R&B,5,6,0,1
+34,Spotify,1,Rock,1,0,0,0
+18,YouTube Music,1.5,Pop,8,6,5,2
+21,Spotify,5,Folk,9,4,0,3
+38,Spotify,0.5,Rock,4,6,6,4
+17,Spotify,2,Rock,7,3,1,5
+35,Other streaming service,0.5,Pop,10,3,1,0
+21,I do not use a streaming service.,2,Rock,8,8,3,0
+25,Apple Music,2.5,R&B,7,6,5,4
+18,Spotify,2,K pop,7,2,3,5
+16,Apple Music,2,Pop,10,3.5,5,10
+19,Spotify,1,Pop,7,5,1,2
+31,Spotify,4,Classical,6,8,9,5
+26,Spotify,5,Rock,2,9,2,1
+16,Spotify,2,Rock,7,4,10,2
+26,Spotify,2,Rock,7,5,6,0
+17,Spotify,2,R&B,6,1,0,0
+22,Spotify,1,Video game music,3,6,1,1
+20,Apple Music,4,R&B,9,10,3,0
+30,Spotify,1,Rock,8,5,8,9
+26,Other streaming service,4,Pop,8,7,7,3
+19,Spotify,5,Rock,9,9,9,3
+21,,5,Country,9,8,9,7
+33,Spotify,7,Rock,9,3,7,8
+28,YouTube Music,2,Rock,10,8,6,2
+25,Spotify,3,Rock,9,6,3,0
+22,YouTube Music,2,Pop,7,7,8,3
+19,Spotify,3,Rock,9,10,4,0
+44,Other streaming service,3,Folk,9,9,8,2
+22,Spotify,3,Rock,9,10,3,9
+26,Spotify,5,Metal,10,9,8,8
+23,I do not use a streaming service.,6,Classical,6,5,6,8
+17,Spotify,2,R&B,8,6,10,3
+42,YouTube Music,2,Metal,8,3,6,4
+30,Spotify,1,Rock,4,2,1,3
+35,Spotify,1,Pop,2,1,1,1
+20,Spotify,3,Rock,10,10,7,3
+18,Spotify,3,Rap,8,9,0,0
+21,Spotify,1,Pop,4,9,6,2
+19,Spotify,6,Rock,4,2,0,0
+37,Spotify,4,Rock,9,2,7,7
+31,Spotify,2,Metal,8,6,7,5
+29,Spotify,2,Folk,6,5,4,2
+20,Spotify,3,Rock,8,5,2,3
+36,I do not use a streaming service.,8,Video game music,7,6,6,1
+18,Spotify,3,Rock,10,2,0,0
+18,Spotify,2,K pop,6,0,0,0
+25,Spotify,7,Pop,2,0,1,0
+18,YouTube Music,12,K pop,3,7,5,2
+31,YouTube Music,9,Pop,9,0,2,0
+17,Spotify,2,Pop,5,4,1,1
+21,Spotify,1,Folk,8,4,0,1
+30,Other streaming service,1,Country,8,10,2,0
+40,Apple Music,2,Metal,3,6,2,1
+64,I do not use a streaming service.,4,Rock,4,4,2,1
+14,Spotify,2,Rock,7,5,2,6
+26,YouTube Music,6,Rock,3,2,0,0
+35,Spotify,4,Country,9,9,5,1
+33,Other streaming service,1,Rock,3,10,4,1
+30,Spotify,6,Folk,9,0,5,0
+31,Spotify,2,Metal,7,6,6,5
+27,Spotify,5,Folk,0,9,4,0
+53,I do not use a streaming service.,1.5,Pop,2,2,2,1
+23,Spotify,5,Metal,6,9,2,1
+25,Spotify,2,EDM,6,4,1,0
+16,Apple Music,4,K pop,8,9,4,0
+18,Spotify,2,Rock,6,7,4,3
+29,Spotify,5,Classical,7,2,2,0
+31,YouTube Music,6,EDM,8,6,5,6
+31,Spotify,1,Rock,3,10,0,0
+38,Spotify,6,Pop,9,4,9,7
+17,Spotify,4,Classical,7,9,2,8
+25,Apple Music,2,EDM,10,3,1,4
+20,Spotify,2,Metal,0,0,0,1
+15,Spotify,2,EDM,9,6,1,7
+16,Spotify,4,Lofi,7,1,3,5
+20,Spotify,2,EDM,9,7,5,7
+23,Other streaming service,6,Rap,3,1,2,7
+22,Spotify,3,Hip hop,6,6,8,0
+15,I do not use a streaming service.,5,Rock,10,6,0,4
+17,I do not use a streaming service.,0.5,Video game music,6,3,1,1
+22,YouTube Music,1,Video game music,3,3,0,7
+21,Spotify,10,Metal,9,10,2,2
+19,Spotify,2,Pop,7,5,0,2
+32,Apple Music,0.5,Classical,3,0,4,4
+34,YouTube Music,1,Rock,9,9,6,4
+18,I do not use a streaming service.,2,Metal,5,7,7,2
+21,Spotify,3,Country,0,8,0,5
+20,Spotify,3,Country,8,4,3,4
+19,Spotify,2,Country,7,2,0,7
+25,I do not use a streaming service.,1,Pop,9,9,6,9
+31,Spotify,8,Classical,5,7,5,4
+21,Spotify,1,Pop,5,1,0,0
+31,YouTube Music,1,Folk,4,1,3,0
+20,YouTube Music,1,Pop,3,5,3,0
+19,Spotify,5,Rock,2,2,0,6
+19,Other streaming service,5,EDM,0,1,3,5
+23,Spotify,4,Metal,7,8,6,2
+24,I do not use a streaming service.,8,Video game music,6,4,8,8
+20,Other streaming service,0.7,Rock,5,6,8,2
+15,Spotify,3,Video game music,6,6,2,6
+17,Spotify,7,Hip hop,8,9,3,4
+20,I do not use a streaming service.,1.5,Video game music,8,4,3,3
+14,Spotify,4,Video game music,8,6,5,7
+24,Spotify,4,Metal,8,8,7,7
+14,Other streaming service,10,Video game music,5,2,5,0
+23,Spotify,2,Rock,6,8,4,2
+28,Apple Music,2,Rock,7,5,2,1
+22,Spotify,6,Jazz,8,8,7,1
+25,Spotify,0.5,Rock,10,2,0,0
+27,Spotify,2,Pop,8,7,7,5
+18,Spotify,5,Rock,8,8,8,6
+17,Apple Music,3,Pop,8,10,9,2
+23,Other streaming service,4.5,Rock,6,1,8,4
+40,Other streaming service,3,Rock,0,4,4,0
+27,Spotify,20,Rock,8,10,10,8
+18,Spotify,1,Pop,3,2,0,1
+16,Spotify,2.5,Metal,5,3,3,1
+18,Spotify,1,Rock,8,9,6,1
+23,Spotify,2,Jazz,10,3,0,10
+15,I do not use a streaming service.,5,Metal,6,7,8,2
+20,Apple Music,3,Metal,7,4,7,0
+16,Spotify,3,Rock,9,8,6,2
+16,Spotify,0.5,Rock,8,0,0,0
+20,Apple Music,8,Country,8,9,2,5
+33,Spotify,2,Metal,7,2,3,0
+22,Spotify,3,Rock,10,10,4,0
+21,Spotify,3,Hip hop,8,8,3,3
+21,Apple Music,5,Metal,8,7,7,4
+29,Apple Music,1.5,Rock,8,7,1,2
+56,I do not use a streaming service.,1,Pop,6,5,10,2
+17,Spotify,2,Pop,7,6,0,4
+22,Spotify,1,Pop,7,4,0,0
+26,Spotify,4,Pop,8,7,2,10
+30,Spotify,1,EDM,4,4,4,0
+49,Spotify,2,Folk,0,0,2,0
+22,Spotify,2,EDM,6,4,0,1
+32,Spotify,2,Rock,4,7,0,0
+32,I do not use a streaming service.,1,Rock,8,4,3,0
+22,YouTube Music,6,Country,5,5,3,3
+17,Spotify,2,Rock,0,8,0,0
+21,Spotify,4,Rock,7,4,6,1
+17,Spotify,1.5,Rock,8,7,7,3
+25,Spotify,3,Metal,9,8,6,2
+15,Spotify,4,Rock,8,6,4,0
+13,Spotify,10,Rap,7,2,0,8
+38,Spotify,3,Rock,6,7,7,7
+23,Apple Music,3,Rock,7,6,4,2
+17,Spotify,3,Pop,1,1,1,0
+59,YouTube Music,2,Pop,1,1,3,0
+22,Spotify,2,Pop,2,7,1,2
+17,Apple Music,3,Pop,6,2,3,1
+27,Spotify,2,Pop,7,7,3,2
+23,Spotify,5,Video game music,8,7,0,3
+15,Spotify,6,Rock,8,3,5,2
+22,Spotify,3,EDM,5,4,2,0
+23,Spotify,5,Lofi,7,10,10,1
+19,Spotify,5,Country,7,6,8,4
+32,Spotify,6,Rock,8,7,0,9
+40,Spotify,6,Rock,10,7,3,3
+21,Spotify,3,Country,6,5,5,3
+21,Spotify,10,Rock,8,7,6,8
+23,Spotify,2,Video game music,10,7,7,3
+21,YouTube Music,2,EDM,10,10,5,7
+35,Spotify,3,Folk,8,2,2,8
+18,Spotify,1.5,Hip hop,3,7,4,0
+21,I do not use a streaming service.,10,Pop,9,7,5,5
+22,I do not use a streaming service.,2,Video game music,5,3,0,0
+23,Spotify,3,Rock,10,7,0,10
+13,Spotify,2.5,Folk,8,0,0,3
+19,Spotify,3,K pop,6,0,3,0
+33,YouTube Music,0.5,Rock,7,9,4,6
+18,Spotify,16,Jazz,3,2,5,6
+17,YouTube Music,6,Classical,4,2,0,0
+16,Spotify,3,EDM,4,2,0,0
+18,YouTube Music,0.5,Rock,5,3,1,0
+19,Spotify,5,K pop,4,2,2,1
+15,YouTube Music,2,Rap,4,0,6,5
+17,Spotify,2,Pop,7,6,3,1
+25,Spotify,2,Lofi,7,8,6,2
+24,Other streaming service,1.5,Video game music,3,4,1,1
+23,Spotify,1,Jazz,9,7,2,1
+16,Spotify,10,EDM,10,9,3,2
+25,YouTube Music,2,Metal,9,9,7,3
+16,Spotify,15,EDM,8,10,9,2
+20,I do not use a streaming service.,0.5,Metal,8,9,6,4
+17,Spotify,3,Metal,5,6,9,9
+29,I do not use a streaming service.,2,Metal,9,3,7,2
+20,Spotify,4,Hip hop,3,2,1,6
+16,Spotify,2,Folk,7,7,4,0
+21,Spotify,1,Rock,7,9,1,2
+16,Spotify,24,Rock,5,1,9,1
+43,Spotify,1,Pop,3,3,0,0
+32,Pandora,2,Classical,8,7,5,4
+10,YouTube Music,2,Pop,8,2,1,1
+27,Spotify,3,Metal,4,0,0,0
+24,Spotify,3,Classical,9,6,1,1
+18,Spotify,2,Hip hop,10,7,2,0
+17,Apple Music,7,Rock,8,7,7,4
+19,Spotify,6,Metal,1,0,0,0
+16,YouTube Music,3,Rock,5,7,1,4
+64,Other streaming service,5,Rock,7,6,9,2
+33,Apple Music,4,Lofi,8,8,2,2
+32,I do not use a streaming service.,3,Rock,2,2,8,0
+15,Pandora,2,Pop,6,0,0,2
+27,YouTube Music,3,Metal,2,0,1,0
+20,I do not use a streaming service.,2,Rock,6,2,6,7
+23,I do not use a streaming service.,2,Pop,6,1,0,5
+19,Apple Music,3,Classical,7,6,4,0
+12,YouTube Music,2,Classical,0,0,3,0
+16,Other streaming service,3,Classical,9,7,10,6
+17,Other streaming service,0,Video game music,10,0,0,0
+14,Spotify,1,Pop,6,6,3,0
+32,Spotify,2,Metal,4,3,1,6
+20,Spotify,2,Pop,6,2,2,1
+54,I do not use a streaming service.,6,Classical,2,2,3,2
+18,Spotify,5,K pop,7,4,5,6
+14,Spotify,2,Classical,7,5,3,2
+13,Other streaming service,4,Classical,8,5,10,3
+19,Apple Music,8,Country,7,5,6,5
+14,Spotify,4,Classical,6,8,8,2
+14,YouTube Music,1.5,Classical,1,2,4,3
+18,Apple Music,2,Rap,3,2,0,2
+15,Spotify,5,Folk,6,7,7,4
+24,YouTube Music,6,Classical,6,7,2,0
+17,Apple Music,2,Pop,9,8,4,8
+44,Spotify,2,Rock,7,7,2,1
+23,Spotify,1,Rock,1,0,1,0
+21,Apple Music,1,Rap,4,3,4,5
+57,Other streaming service,2,R&B,2,0,0,0
+23,Spotify,2,Rock,0,5,7,0
+18,Spotify,1,Pop,8,7,7,0
+26,Spotify,14,Hip hop,5,10,8,0
+13,YouTube Music,3,Classical,8,7,9,2
+15,Spotify,3,Classical,9,6,8,5
+57,YouTube Music,2,Rock,2,2,7,0
+12,Spotify,0.5,Classical,7,8,6,2
+26,Spotify,6,EDM,10,10,8,2
+17,Spotify,1,Country,8,5,2,3
+17,Spotify,2,Classical,7,8,2,5
+69,Pandora,4,Classical,1,1,2,0
+17,Spotify,3,R&B,9,10,10,3
+32,Spotify,12,Jazz,9,4,4,4
+22,YouTube Music,3,Classical,8,2,4,0
+38,Spotify,1,Metal,1,1,5,1
+18,YouTube Music,10,EDM,10,9,9,8
+14,Spotify,5,Classical,3,0,2,3
+14,Other streaming service,0.5,Video game music,4,0,4,0
+19,Spotify,5,Metal,2,3,5,2
+20,YouTube Music,3,Classical,2,3,3,0
+18,Spotify,2,Rock,8,4,3,0
+30,Spotify,13,K pop,10,10,10,7
+31,I do not use a streaming service.,4,Classical,8,8,9,3
+72,Spotify,6,Rock,0,1,0,2
+73,Pandora,3,R&B,5,4,0,1
+16,Spotify,4,Pop,7.5,5,7,8.5
+19,YouTube Music,3,Rap,3,3,0,0
+16,Spotify,2,Classical,7,5,3,1
+12,Spotify,2,Classical,8,0,1,6
+39,Spotify,1,Hip hop,6,4,1,1
+15,Spotify,6,K pop,8,8,7,10
+14,Spotify,9,R&B,10,8,9,5
+21,Spotify,1,Country,3,0,2,0
+38,Apple Music,1,Video game music,5,5,7,1
+23,Spotify,0.5,Hip hop,7,7,6,5
+16,Other streaming service,1,EDM,7,4,6,3
+21,Apple Music,1.5,Folk,3,3,1,0
+13,Spotify,6,Rap,4,0,0,2
+16,Spotify,4,Rock,3,0,6,9
+18,Spotify,6,Rock,5,1,6,0
+21,Spotify,4,Metal,10,6,8,0
+17,Spotify,1.5,Classical,7,5,1,2
+24,Apple Music,2,Rock,7,7,0,4
+14,Apple Music,2,Pop,6,0,0,0
+25,Spotify,4,Rock,6,2,3,2
+22,Spotify,3,Lofi,7,6,7,9
+20,I do not use a streaming service.,4,Rock,5,7,7,0
+23,Spotify,2,Pop,7,6,4,3
+61,Pandora,2,Rock,2,2,2,0
+24,Spotify,6,Video game music,9,5,0,7
+34,Spotify,0,Rock,3,7,8,0
+49,Spotify,1,Pop,4,5,9,1
+33,I do not use a streaming service.,4,Rock,1,0,7,0
+22,I do not use a streaming service.,2,Metal,3,2,0,2
+38,Spotify,3,Metal,1,6,1,2
+23,YouTube Music,4,Hip hop,8,10,4,0
+34,I do not use a streaming service.,2,Video game music,8,10,10,0
+40,Other streaming service,3,Metal,3,0,8,1
+27,Spotify,1,Hip hop,3,4,1,0
+54,YouTube Music,10,Rock,2,1,2,2
+16,Spotify,10,Rock,0,0,0,0
+23,I do not use a streaming service.,10,Video game music,8,8,5,0
+35,Spotify,4,Country,1,1,1,0
+22,YouTube Music,4,Folk,8,7,6,2
+41,Spotify,3,Metal,6,5,4,0
+63,Spotify,2,Rock,5,4,6,2
+28,Spotify,1,Rock,3,1,0,2
+22,Spotify,6,Country,4,8,2,2
+58,YouTube Music,1,Rock,5,6,3,1
+58,YouTube Music,1,Classical,0,0,2,1
+67,Other streaming service,4,Rock,7,6,7,4
+70,I do not use a streaming service.,2,Country,8,5,6,1
+60,YouTube Music,2,Rock,4,4,2,0
+15,Spotify,2,Pop,9,8,10,9
+18,YouTube Music,6,EDM,5,5,7,0
+58,Other streaming service,3,Hip hop,4,6,8,1
+28,Other streaming service,1,Lofi,4,8,5,0
+22,Spotify,4,Lofi,9,10,6,7
+49,YouTube Music,0.5,Classical,3,2,2,2
+20,YouTube Music,8,Rock,6,2,2,1
+55,YouTube Music,15,Rock,2,0,3,0
+48,Spotify,1.5,Metal,10,8,0,4
+14,Spotify,2,K pop,4,4,2,2
+18,Spotify,3,Pop,7,8,6,2
+25,Spotify,1,Pop,7,6,5,5
+71,I do not use a streaming service.,0.25,Gospel,1,0,0,0
+60,YouTube Music,1,Gospel,6,2,8,0
+18,I do not use a streaming service.,1,Video game music,4,5,7,0
+19,Spotify,5,Hip hop,10,7,0,0
+74,I do not use a streaming service.,1,Pop,4,2,1,0
+36,Pandora,1,Hip hop,7,6,2,3
+14,Spotify,7,Lofi,3,2,8,0
+20,Spotify,3,Hip hop,10,7,4,3
+15,Spotify,3,K pop,4,0,0,0
+19,I do not use a streaming service.,7,Rock,7,7,0,0
+29,Spotify,8,EDM,6,7,4,1
+24,Spotify,2,Metal,7,6,2,7
+18,Apple Music,2,Pop,6,5,8,0
+21,Spotify,2,Rock,10,10,2,3
+19,Spotify,2,K pop,7,6,5,1
+25,Spotify,4,Video game music,3,0,0,0
+28,Spotify,8,Rock,8,2,1,0
+27,Other streaming service,4,Rap,7,6,6,5
+60,Spotify,1,Rock,3,2,5,0
+25,YouTube Music,5,Metal,8,2,1,0
+60,Other streaming service,2,Rock,7,7,2,4
+43,Other streaming service,1,Country,5,1,1,1
+51,I do not use a streaming service.,5,Rock,1,2,1,0
+63,YouTube Music,8,Rock,2,1,2,2
+64,YouTube Music,2,Classical,5,2,4,0
+22,Spotify,2,Pop,7,2,1,0
+24,YouTube Music,1,Folk,10,10,7,8
+19,Spotify,8,Pop,7,2,1,6
+56,Apple Music,8,Pop,6,4,1,0
+20,Spotify,1,EDM,5,9,6,1
+19,I do not use a streaming service.,1,Video game music,7,5,7,0
+20,Spotify,8,Jazz,7,6,7,4
+60,Spotify,2,Rock,0,0,0,0
+65,Apple Music,6,R&B,3,5,0,2
+28,Spotify,3,Metal,8,8,5,2
+18,I do not use a streaming service.,4,EDM,8,7,10,6
+42,Spotify,2,Rock,2,4,5,2
+80,I do not use a streaming service.,3,Classical,7,3,9,2
+22,I do not use a streaming service.,4,Pop,8,7,4,4
+56,Other streaming service,2,Jazz,0,0,0,5
+20,YouTube Music,1,Pop,8,6,9,8
+15,Spotify,1,Video game music,4,2,3,2
+67,I do not use a streaming service.,1,Rock,3,2,2,2
+57,Spotify,2,Gospel,6,4,10,0
+22,Apple Music,7,Pop,8,8,10,0
+17,Spotify,5,Pop,5,5,5,5
+19,Spotify,3,Rock,10,8,6,2
+50,I do not use a streaming service.,1,Rock,0,0,7,0
+24,Spotify,6,Rock,8,8,10,0
+67,Apple Music,2,Rock,8,2,0,0
+18,Other streaming service,3,Metal,7,8,4,10
+20,Spotify,1.5,Country,0,2,0,1
+15,Spotify,4,Pop,3,5,4,0
+17,Spotify,2,Pop,5,2,3,1
+32,YouTube Music,2,Folk,6,1,0,0
+18,Spotify,2,Rap,6,3,4,2
+18,Spotify,1,Rock,5,6,8,2
+18,Spotify,3,K pop,8,4,7,5
+19,Spotify,3,Pop,1,1,2,3
+18,Spotify,2,Rock,8,3,1,3
+17,Other streaming service,6,Rap,3,3,0,0
+34,Spotify,3,Classical,0,0,0,0
+18,YouTube Music,3,Pop,5,4,2,0
+18,Spotify,2,R&B,2,4,0,0
+22,I do not use a streaming service.,2,Video game music,4,6,0,2
+18,Spotify,2,Pop,5,7,2,0
+19,Spotify,3,Rock,4,0,7,0
+25,I do not use a streaming service.,4,Pop,10,8,6,2
+17,Spotify,2,R&B,3,3,1,0
+25,Spotify,5,Rock,8,7,2,1
+18,Spotify,2,R&B,3,3,0,3
+21,Spotify,1,K pop,4,5,2,5
+24,Spotify,7,Folk,10,10,8,10
+16,Spotify,3,K pop,10,2,7,8
+18,Spotify,3,Metal,9,6,8,5
+18,Spotify,4,R&B,6,4,1,6
+16,Spotify,3,Pop,3,4,6,8
+68,Pandora,1,Gospel,10,10,10,0
+16,Spotify,7,Video game music,4,8,8,4
+21,Spotify,1,R&B,3,0,0,0
+53,Pandora,4,R&B,1,0,0,0
+29,Spotify,4,Classical,5,6,7,7
+18,Spotify,3,Video game music,7,0,3,1
+29,Spotify,2,Pop,10,8,8,9
+18,Spotify,4,R&B,3,0,3,4
+22,Spotify,5,EDM,1,0,0,1
+19,Other streaming service,6,Pop,6,6,0,0
+13,YouTube Music,1,Video game music,4,3,4,0
+26,I do not use a streaming service.,1,Pop,6,4,0,0
+14,Spotify,3,Rock,2,6,3,0
+27,Spotify,1,Pop,8,3,3,3
+26,Spotify,8,Rock,8,10,7,3
+59,Other streaming service,1,Rock,1,0,0,1
+30,Spotify,8,Rock,8,6,6,8
+27,Spotify,1,Pop,6,3,1,7
+18,Apple Music,1,Rap,2,0,3,0
+23,I do not use a streaming service.,10,Metal,0,0,0,0
+18,Spotify,10,Rock,10,10,6,6
+40,Spotify,5,Rock,3,0,0,1
+24,Spotify,10,Rock,7,9,10,0
+23,Spotify,2,Classical,8,7,6,2
+56,Other streaming service,6,R&B,2,0,10,10
+29,Other streaming service,2,R&B,10,7,9,3
+16,Other streaming service,3,Pop,6,0,0,0
+18,Spotify,8,Gospel,3,0,2,2
+21,Spotify,8,Lofi,6,5,9,8
+32,Spotify,8,Rock,7,6,5,8
+22,YouTube Music,8,Metal,10,7,8,6
+17,Spotify,12,Latin,0,3,9,5
+18,Spotify,6,EDM,0,2,1,5
+18,Spotify,4,R&B,2,0,0,0
+24,Spotify,8,Jazz,2,2,4,0
+21,Spotify,2,Pop,5,6,3,4
+46,I do not use a streaming service.,1,Rock,0,0,1,0
+18,Spotify,2,Hip hop,5,4,3,7
+16,Spotify,3,K pop,2,7,0,0
+21,Spotify,1,Video game music,0,6,0,4
+19,I do not use a streaming service.,0,Classical,0,0,0,0
+20,Spotify,2,Rap,7,5,1,3
+21,Other streaming service,0.1,Folk,7,5,3,1
+56,I do not use a streaming service.,2,Rock,3,3,1,8
+21,Spotify,12,Rock,7,10,4,7
+20,Spotify,1,Pop,3,2,3,0
+21,Apple Music,1,Rock,5,1,1,9
+25,Spotify,3,Rock,8,9,4,10
+33,Spotify,2,Metal,4,8,0,0
+20,Spotify,2,Rock,7,9,7,0
+17,Spotify,3,Rock,1,5,6,4
+24,YouTube Music,1,Jazz,3,2,1,0
+26,Spotify,3,Jazz,6,8,0,0
+17,YouTube Music,3,Rock,6,3,6,0
+16,Spotify,5,Metal,7,4,8,0
+27,Spotify,8,Metal,2,6,9,1
+28,Spotify,4,Hip hop,8,5,3,8
+48,I do not use a streaming service.,5,Rock,3,3,0,0
+19,Spotify,3,Rap,7,5,3,3
+21,YouTube Music,4,Rock,4,8,2,3
+21,I do not use a streaming service.,1,Classical,3,0,0,5
+15,Spotify,4,Metal,10,7,3,2
+20,Spotify,1,Rock,10,4,8,0
+21,YouTube Music,2,Video game music,2,2,0,0
+22,Spotify,6,Folk,8,7,7,3
+22,Spotify,2,Rock,10,5,2,8
+31,Spotify,1,Rock,9,10,10,6
+20,YouTube Music,4,Metal,5,2,1,6
+49,I do not use a streaming service.,8,Classical,4,8,9,1
+42,Spotify,2,Metal,7,8,5,3
+26,Spotify,2,EDM,2,2,0,3
+17,Spotify,10,K pop,10,3,0,4
+30,I do not use a streaming service.,0,Metal,10,10,10,9
+23,Spotify,6,Folk,3,7,7,4
+30,Apple Music,3,EDM,7,5,7,7
+31,Spotify,2,Metal,7,4,8,8
+42,Other streaming service,0.25,Classical,7,9,4,5
+16,Other streaming service,4,EDM,4,7,1,3
+34,YouTube Music,2,Metal,5,9,9,6
+21,YouTube Music,2,Pop,5,4,10,7
+27,YouTube Music,3,Pop,7,2,0,1
+18,Spotify,6,Folk,8,6,0,2
+26,Spotify,3,Metal,1,3,10,0
+37,Spotify,2,Rock,8,10,10,2
+26,Spotify,5,Folk,4,7,6,0
+19,Spotify,4,Pop,9,6,3,0
+22,Spotify,4,Rock,10,7,4,4
+43,I do not use a streaming service.,0,Rock,1,2,2,0
+24,I do not use a streaming service.,12,Rock,7,10,0,8
+21,I do not use a streaming service.,0.5,Pop,10,2,1,10
+28,I do not use a streaming service.,1,Rock,2,1,2,2
+23,YouTube Music,3,R&B,3,10,0,0
+20,Apple Music,12,Rock,7,10,2,0
+17,Spotify,4,Metal,4,2,0,0
+19,Spotify,3,R&B,4,2,5,3
+32,Spotify,1,Metal,6,8,7,0
+18,YouTube Music,4,Folk,8,6,4,0
+20,Other streaming service,2,Rock,2,2,0,0
+27,Spotify,3,Rock,8,7,9,3
+15,Spotify,3,Rock,4,3,5,0
+26,Spotify,1,Rock,6,1,0,4
+24,Spotify,2,Pop,6,6,3,6
+20,Spotify,1,K pop,8,7,1,1
+21,YouTube Music,0.5,Pop,5,3,4,1
+16,Spotify,2,Video game music,6,2,4,3
+21,Spotify,11,Metal,5,6,6,0
+27,Spotify,10,Jazz,6,10,8,1
+17,Spotify,5,Rock,7,3,9,7
+21,Spotify,1.5,Classical,4,6,0,0
+17,Spotify,2,Folk,9,4,0,1
+21,Spotify,3,Rap,9,7,7,5
+17,YouTube Music,2,Rock,5,10,2,7
+36,YouTube Music,3,Country,1,0,1,0
+18,Spotify,4,R&B,8,7,2,6
+18,Spotify,1,K pop,5,1,4,0
+18,Apple Music,5,Latin,10,6,0,0
+18,Apple Music,2,R&B,7,5,5,5
+18,Spotify,7,Hip hop,3,1,0,3
+18,Spotify,2,Rap,5,8,7,4
+18,I do not use a streaming service.,1,Classical,2,0,0,5
+18,I do not use a streaming service.,1,Classical,7,0,0,0
+18,Spotify,4,R&B,8,0,0,2
+20,Spotify,6,R&B,4,1,1,0
+19,Spotify,3,Hip hop,3,8,0,2
+17,Spotify,4,Hip hop,7,0,2,2
+23,Spotify,4,Video game music,10,8,10,0
+18,YouTube Music,1,Pop,7,1,1,1
+19,Spotify,2,Pop,5,9,1,7
+89,Spotify,24,Rap,0,0,0,0
+20,Spotify,5,R&B,10,6,3,8
+16,Spotify,3,Rock,7,3.5,3.5,5.5
+17,Spotify,4,Country,2,0,0,2
+16,Spotify,9,Metal,10,10,10,8
+20,YouTube Music,1,Pop,8,9,6,5
+30,YouTube Music,1,Rock,9,7,8,4
+37,Spotify,2,Folk,6,4,5,0
+44,YouTube Music,1.5,Folk,8,5,9,4
+21,Spotify,2,Metal,3,7,0,0
+19,Spotify,4,Pop,9,1,0,9
+23,Spotify,1,Rock,8,6,1,4
+26,Spotify,1,Country,4,1,1,6
+18,Spotify,3,Video game music,6,5,3,1
+35,Spotify,4,Hip hop,7,8,6,5
+16,Spotify,8,Rock,8,9,5,10
+19,Spotify,5,Metal,8,6,7,0
+23,I do not use a streaming service.,3,Rock,10,5,2,0
+17,YouTube Music,8,Pop,5,2,4,7
+29,Apple Music,1,Country,9,3,2,0
+21,Spotify,4,Pop,4,6,3,4
+17,Spotify,1,Metal,9,8,4,0
+23,Spotify,2,Rock,5,7,10,2
+17,Spotify,1,Metal,8,3,9,2
+22,Spotify,3,Video game music,10,10,6,8
+17,Spotify,5,Hip hop,7,7,5,5
+19,Spotify,5,Pop,10,8,1,0
+19,Spotify,4,Pop,8,6,2,0
+16,Spotify,6,Pop,10,7,6,10
+19,Spotify,6,Pop,6,6,8,0
+13,Spotify,1,Video game music,10,10,8,4
+18,Apple Music,18,EDM,9,8,5,10
+26,YouTube Music,1,Metal,0,0,0,0
+14,Other streaming service,7,Country,7,3,1,2
+21,I do not use a streaming service.,0.5,Pop,6,2,2,0
+21,Spotify,2,R&B,7,6,4,6
+17,Spotify,2,Rock,7,6,0,9
+18,Spotify,1,Pop,3,2,2,5
+19,Other streaming service,6,Rap,2,2,2,2
+19,Spotify,5,Classical,2,3,2,1
+29,YouTube Music,2,Hip hop,2,2,2,5
